@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AllOfCritic.iml" filepath="$PROJECT_DIR$/.idea/AllOfCritic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MetacriticCollector.iml" filepath="$PROJECT_DIR$/.idea/MetacriticCollector.iml" />
     </modules>
   </component>
 </project>
